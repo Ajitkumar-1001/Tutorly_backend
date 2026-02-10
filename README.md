@@ -1,9 +1,7 @@
 <div align="center">
 <h1>Tutorly Backend </h1>
 
-**Status:** Active Development  
-**Visibility:** Limited  
-**Scope:** Backend Only
+
 
 Tutorly Backend is the private orchestration layer that powers Tutorly’s adaptive tutoring experience.  
 It operates behind the scenes to coordinate sessions, process interaction signals, and determine system responses in real time.
